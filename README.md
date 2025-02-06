@@ -1,1 +1,1 @@
-# Exploratory-data-analysis-for-fight-price-predictiom
+# Exploratory-data-analysis-for-fight-price-prediction
